@@ -168,5 +168,18 @@ npm run build
 | Storage | joblib model persistence |
 
 ---
+## Screenshots
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### Predict Page
+![Predict](screenshots/predict.png)
+
+### Forecast
+![Forecast](screenshots/forecast.png)
+
+### Model Insights
+![Model](screenshots/model.png)
 
 *AirLedger — Making pollution control smarter, one prediction at a time.*
