@@ -1,0 +1,15 @@
+venv/
+backend/venv/
+__pycache__/
+*.pyc
+
+node_modules/
+frontend/node_modules/
+
+model/
+*.joblib
+
+.env
+
+.vscode/
+.DS_Store
